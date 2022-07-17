@@ -1,9 +1,5 @@
 # Challenge_14
 
-<<<<<<< HEAD
-=======
-# Challenge_14
-
 >>>>>>> fe67619f72292ddd6bb26cd26a2c009eb30dbc32
 Step 1: Tune the training algorithm by adjusting the size of the training dataset.¶
 To do so, slice your data into different periods. Rerun the notebook with the updated parameters, and record the results in your README.md file.
